@@ -1,7 +1,8 @@
 # ASO & App Marketing Skills
 
+
 <a href="https://www.appeeky.com">
-  <img width="auto" height="auto" alt="Appeeky" src="cover.png">
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5872442-99f9-4e66-8667-96eb03e55f98" />
 </a>
 <div align="center">
 <p align="center">
@@ -18,7 +19,7 @@ AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built
 
 Powered by real App Store data via the [Appeeky API](https://docs.appeeky.com).
 
-A web version is also available, powered by LLMs and our MCP:[Appeeky Web](https://appeeky.com).
+A web version is also available, powered by AI chats and our MCP: [Appeeky Web](https://appeeky.com).
 
 ## Why This Exists
 
